@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 0,8em;
+}
+
+body{
+    font-family:  'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    color: #393d41;
+    text-align: center;
+ 
+
+}
+.container{
+    margin: 0 auto;
+    width: 380px;
+}
+header{
+    background-color: #000000;
+    padding: 50px;
+
+}
+main{
+    background-image: url(/Esercizio/images/banner.jpg);
+    background-size: cover;
+    height: 400px;
+    padding: 2em;
+    
+
+}
+main h1{
+    color: cadetblue;
+    font-size: larger;
+    font-weight: bolder;
+    padding-bottom: 1em;
+}
+main p {margin-bottom: 2em;
+
+}
+button{
+    background-color: orangered;
+    border: none;
+    color: white;
+    font-family:  'Open Sans', sans-serif;
+    width: 10rem;
+    height: 3rem;
+
+}
+button p {
+   padding: 10px;
+}
+
+#info h2{
+    font-size: 20px;
+    font-weight: bold;
+    color: cadetblue;
+    margin: 20px;
+
+}
+#info p{
+    text-align: center;
+}
+#info{
+    margin-top: 20px;
+}
+#computer img{
+    border-radius: 100%;
+    margin: 0 auto;
+    width: 380px;
+}
+#garanzia{
+    background-color: orangered;
+    color: white;
+    padding: 0.5em;
+    margin-top: 50px;
+   
+}
+#garanzia h2{
+    font-size: larger;
+    font-weight: bolder;
+    
+    padding: 20px 0 0 0 ;
+
+} 
+#garanzia blockquote{
+font-style: italic;
+margin: 20px;
+}
+
+
+.pc{
+    background-image: url(/Esercizio/images/foto1.jpg);
+    width: 380px;
+    height: 280px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.light{
+    background-image: url(/Esercizio/images/foto2.jpg);
+    width: 380px;
+    height: 280px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.person{
+    background-image: url(/Esercizio/images/foto3.jpg);
+    width: 380px;
+    height: 280px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+#info2 h3{
+    color: cadetblue;
+    font-weight: bolder;
+}
+
+.primo {
+    padding: 20px 0 20px 0;
+    border: 1px solid grey;
+    border-radius: 5px;
+
+  
+}
+.secondo{
+    padding: 20px 0 20px 0;
+    border: 1px solid grey;
+    border-radius: 5px;
+
+}
+.terzo{
+    padding: 20px 0 20px 0;
+    border: 1px solid grey;
+    border-radius: 5px;
+
+
+}
+.contattaci{
+    background-color:  #25a2c3;
+    width: 380px;
+    height: 280px;
+    color: white;
+}
+.contattaci h3{
+    font-size: large;
+    font-weight: bolder;
+    
+}
